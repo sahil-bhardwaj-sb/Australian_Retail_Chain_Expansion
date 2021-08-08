@@ -11,7 +11,7 @@ However, the Board of Directors is considering an expansion into one of the foll
 You have been asked to assess the business environments for the industry in question in each of these three states and present your findings to the 
 Board of Directors.
 
-Note:- The data used is all imaginary.
+Note:- The Compeetitor-Research data used is all imaginary.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
